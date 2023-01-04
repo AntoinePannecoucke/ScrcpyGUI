@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-D:\.Perso\Dev\Logiciels\ColorGlobalisator\ScrcpyGUI\ScrcpyGUI\obj\Debug\net6.0-windows\
+D:\.Perso\Dev\Logiciels\ScrcpyGUI\ScrcpyGUI\obj\Debug\net6.0-windows\
 ScrcpyGUI
 none
 false
 TRACE;DEBUG;NET;NET6_0;NETCOREAPP
-D:\.Perso\Dev\Logiciels\ColorGlobalisator\ScrcpyGUI\ScrcpyGUI\App.xaml
-11407045341
+D:\.Perso\Dev\Logiciels\ScrcpyGUI\ScrcpyGUI\App.xaml
+3-779608126
 
-52089166554
-1941905061893
-MainWindow.xaml;
+7-1309516879
+194-1797456590
+MainWindow.xaml;Styles\Colors.xaml;Styles\Styles.xaml;
 
-False
+True
 

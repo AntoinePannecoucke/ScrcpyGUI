@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e2a9093a-2295-487d-988d-07cdcabcffdb": {
+      "ProjectGuid": "e2a9093a-2295-487d-988d-07cdcabcffdb",
+      "DisplayName": "ScrcpyGUI",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

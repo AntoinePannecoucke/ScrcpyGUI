@@ -1,30 +1,33 @@
 {
   "format": 1,
   "restore": {
-    "D:\\.Perso\\Dev\\Logiciels\\ColorGlobalisator\\ScrcpyGUI\\ScrcpyGUI\\ScrcpyGUI.csproj": {}
+    "D:\\.Perso\\Dev\\Logiciels\\ScrcpyGUI\\ScrcpyGUI\\ScrcpyGUI.csproj": {}
   },
   "projects": {
-    "D:\\.Perso\\Dev\\Logiciels\\ColorGlobalisator\\ScrcpyGUI\\ScrcpyGUI\\ScrcpyGUI.csproj": {
+    "D:\\.Perso\\Dev\\Logiciels\\ScrcpyGUI\\ScrcpyGUI\\ScrcpyGUI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\.Perso\\Dev\\Logiciels\\ColorGlobalisator\\ScrcpyGUI\\ScrcpyGUI\\ScrcpyGUI.csproj",
+        "projectUniqueName": "D:\\.Perso\\Dev\\Logiciels\\ScrcpyGUI\\ScrcpyGUI\\ScrcpyGUI.csproj",
         "projectName": "ScrcpyGUI",
-        "projectPath": "D:\\.Perso\\Dev\\Logiciels\\ColorGlobalisator\\ScrcpyGUI\\ScrcpyGUI\\ScrcpyGUI.csproj",
+        "projectPath": "D:\\.Perso\\Dev\\Logiciels\\ScrcpyGUI\\ScrcpyGUI\\ScrcpyGUI.csproj",
         "packagesPath": "C:\\Users\\Antoinr\\.nuget\\packages\\",
-        "outputPath": "D:\\.Perso\\Dev\\Logiciels\\ColorGlobalisator\\ScrcpyGUI\\ScrcpyGUI\\obj\\",
+        "outputPath": "D:\\.Perso\\Dev\\Logiciels\\ScrcpyGUI\\ScrcpyGUI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
           "C:\\Users\\Antoinr\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net6.0-windows7.0"
+          "net6.0-windows"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -48,7 +51,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -60,7 +64,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }

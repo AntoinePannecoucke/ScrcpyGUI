@@ -1,0 +1,6 @@
+D:\.Perso\Dev\Logiciels\builds\ScrcpyGUI\Release\ScrcpyGUI.exe
+D:\.Perso\Dev\Logiciels\builds\ScrcpyGUI\Release\ScrcpyGUI.dll
+D:\.Perso\Dev\Logiciels\builds\ScrcpyGUI\Release\ScrcpyGUI.deps.json
+D:\.Perso\Dev\Logiciels\builds\ScrcpyGUI\Release\ScrcpyGUI.runtimeconfig.json
+D:\.Perso\Dev\Logiciels\builds\ScrcpyGUI\Release\ScrcpyGUI.dll.config
+D:\.Perso\Dev\Logiciels\builds\ScrcpyGUI\Release\ScrcpyGUI.pdb
